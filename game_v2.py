@@ -46,4 +46,3 @@ if __name__ == "__main__": #сделали чтобы импортировать
     #RUN
     score_game(random_predict)
 
-ваыаы
